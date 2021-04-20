@@ -6,11 +6,13 @@
 
 #header
 {
-	background: #ccc;
+	background: blue;
 	padding: 20px;
 }
 
-#header h1 { margin: 0; }
+#header h1 { margin: center;
+text-align: center;
+}
 
 #navigation
 {
@@ -88,8 +90,8 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
-	text-align: right;
+	background: blue;
+	text-align: center;
 	padding: 20px;
 	height: 1%;
 }
